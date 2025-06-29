@@ -1,4 +1,4 @@
-# RAG-Chatbot
+# AI-Powered-YouTube-Transcript-Analysis
 
 ## Overview
 
