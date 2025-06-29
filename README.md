@@ -38,3 +38,7 @@ To run this project locally:
     ```bash
     streamlit run main.py
     ```
+__________________________________________________________________________________________________________________
+# Demo
+https://github.com/user-attachments/assets/0b9c58dc-d117-4bb2-a03c-dff029167d50
+
